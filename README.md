@@ -14,5 +14,10 @@ I have tried it using both 'Power BI' & 'Excel'
 - Integrate data from these tables
 - Connect them by defining relationship (common column)
 - Extract insights from new table and use data for visualization
+
+
+![Uploading Screenshot (222).png…]()
+
+
 ![excel](https://user-images.githubusercontent.com/78147828/189744889-207e6780-d7e5-4ade-8269-c04d362633f1.png)
 ![powerBi](https://user-images.githubusercontent.com/78147828/189745100-55993ddb-f9f3-4e4f-8c5a-61e807a9346c.png)
