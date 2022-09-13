@@ -16,7 +16,8 @@ I have tried it using both 'Power BI' & 'Excel'
 - Extract insights from new table and use data for visualization
 
 
-![Uploading Screenshot (222).png…]()
+
+![Screenshot (222)](https://user-images.githubusercontent.com/78147828/189858235-10fc3b43-85f3-49a8-bf7d-e27d370e4c71.png)
 
 
 ![excel](https://user-images.githubusercontent.com/78147828/189744889-207e6780-d7e5-4ade-8269-c04d362633f1.png)
